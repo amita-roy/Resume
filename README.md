@@ -1,3 +1,3 @@
 # Resume
 
-> Resume in English and Swedish
+> Resume in English
